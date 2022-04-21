@@ -36,7 +36,7 @@
 </a>  
   
 <a href="https://github.com/mrdybalex" target="_blank">
-<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=discord style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/discord-%2324292e.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a> 
 </div>  
   
