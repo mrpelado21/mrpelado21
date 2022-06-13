@@ -2,7 +2,7 @@
 <h3 align="center">Un chico de 16 años al que le encanta programar</h3>  
 <br/>  
 
-- ⚡ Soy Jefe de Desarrollo en [VazelPvP Network](https://stringcraft.cf)  
+- ⚡ Actualmente no trabajo en nada, solo en crear juegos en Python y poco mas.
   
   
 
