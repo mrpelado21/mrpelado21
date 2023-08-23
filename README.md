@@ -1,15 +1,12 @@
-<h1 align="center">Hola, soy Alejandro</h1>
-<h3 align="center">Un chico de 16 años al que le encanta programar</h3>  
+<h1 align="center">Hola, soy Alejandro (MrPelado)</h1>
+<h3 align="center">Un chico de 17 años al que le encanta programar</h3>  
 <br/>  
 
 - ⚡ Actualmente no trabajo en nada, solo en crear juegos en Python y poco mas.
   
   
 
-- ❓ Estoy aprendiendo Java y las APIs que tienen que ver con Minecraft (Spigot, BungeeCord, Velocity, etc)  
-  
-
-- ✨ Me gustan jugar al Futbol  
+- ❓ Estoy aprendiendo Java y las APIs que tienen que ver con Minecraft (Spigot, BungeeCord, Velocity, etc)   
   
 
 <br/>  
@@ -25,7 +22,7 @@
 
 ## Contacta conmigo
 <div align="center">
-<a href="https://twitter.com/mrdybalex" target="_blank">
+<a href="https://twitter.com/_alejandro_bura" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/_alejandro.bura" target="_blank">
@@ -34,8 +31,7 @@
 <a href="https://github.com/mrdybalex" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-
-![Discord](https://img.shields.io/discord/812766001510481950?style=plastic)
+  
 </div>  
   
 
@@ -43,6 +39,6 @@
 
 
 ## Estadísticas de mi perfil
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrdybalex&show_icons=true&count_private=true&hide_border=true&locale=es&theme=dracula " align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrpelado21&show_icons=true&count_private=true&hide_border=true&locale=es&theme=dracula " align="center" /></div>  
 
 <br/>  
