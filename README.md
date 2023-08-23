@@ -30,15 +30,4 @@
 </a>
 <a href="https://github.com/mrdybalex" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-</div>  
-  
-
-<br/>  
-
-
-## Estadísticas de mi perfil
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mrpelado21&show_icons=true&count_private=true&hide_border=true&locale=es&theme=dracula " align="center" /></div>  
-
-<br/>  
+</a>   
