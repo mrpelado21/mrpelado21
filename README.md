@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Alejandro (MrPelado)</h1>
-<h3 align="center">Un chico de 18 años al que le encanta programar</h3>  
+<h3 align="center">Un chico de 19 años al que le encanta programar</h3>  
 <br/>  
 
 - ⚡ Actualmente no trabajo en nada, solo en crear juegos en Python y poco mas.
